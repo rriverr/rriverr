@@ -1,8 +1,10 @@
 <div align = center>
   
   ![bunny](https://user-images.githubusercontent.com/98695286/161104854-66a7c309-8f43-4448-93b8-e277964bc889.gif)
-
-  ## 𝑵𝒐𝒘 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈... 💻
+ 
+  <br>
+  
+  ## 𝑵𝒐𝒘 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈...
   
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -23,4 +25,6 @@
   <a href="https://velog.io/@greeneryyyyy" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:playamongthestars000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
+  <br>
+
 </div>
