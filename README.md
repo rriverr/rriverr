@@ -16,7 +16,8 @@
   ## 𝑮𝒓𝒂𝒑𝒉𝒊𝒄 🎨
   
   <a href="" target="_blank"><img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>
-
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=flat-square&logo=AdobeAfterEffects&logoColor=white"/></a>
+  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Maya-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Zbrush-555555?style=flat-square&logoColor=white"/></a>
   
