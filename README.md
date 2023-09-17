@@ -24,6 +24,7 @@
 
 
   ## 𝑮𝒓𝒂𝒑𝒉𝒊𝒄 🎨
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
   
   <a href="" target="_blank"><img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>
   
